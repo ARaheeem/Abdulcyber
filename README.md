@@ -5,4 +5,4 @@
 - <b>Project 1: Post Mortem Report</b>
   - [Post Mortem ](https://github.com/ARaheeem/Comprehensive-Post-Mortem-Report/blob/main/README.md)
 - <b>Project 2: Vunerability Managment lab with Nessus</b>
-  - [Vulenerability Managment ](https://github.com/ARaheeem/Comprehensive-Post-Mortem-Report/blob/main/README.md)
+  - [Vulenerability Managment ](https://github.com/ARaheeem/Vulnerability-Management-using-Nessus/blob/main/README.md)
