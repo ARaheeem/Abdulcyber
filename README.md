@@ -7,7 +7,7 @@
   - [Post Mortem ](https://github.com/ARaheeem/Comprehensive-Post-Mortem-Report/blob/main/README.md)
 - <b>Project 2: Vunerability Managment lab with Nessus</b>
   - [Vulenerability Managment ](https://github.com/ARaheeem/Vulnerability-Management-using-Nessus/blob/main/README.md)
-- <b>Project 2: Performing Social Engineering Using SET</b>
+- <b>Project 3: Performing Social Engineering Using SET</b>
   - [Social Enigineering ](https://github.com/ARaheeem/Social-Engineering-Using-SET/blob/main/README.md)
 
 
