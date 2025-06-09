@@ -1,7 +1,6 @@
-<h1>Hi, I'm Abdul Raheem! <br/><a href="https://github.com/ARaheeem"> Aspiring Penetration Tester</a>
-<h1> I'm excited to build a career in cybersecurity. I enjoy learning how to protect systems, prevent attacks, and solve security problems. I'm especially interested in ethical hacking, network security, and keeping data safe.</h1>
+
   
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h1>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Project 1: Post Mortem Report</b>
   - [Post Mortem ](https://github.com/ARaheeem/Comprehensive-Post-Mortem-Report/blob/main/README.md)
